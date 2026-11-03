@@ -1,6 +1,6 @@
 {
   "rewrites": [
-    { "source": "/", "destination": "https://fedora.taild9f793.ts.net/" },
-    { "source": "/:path+", "destination": "https://fedora.taild9f793.ts.net/:path+" }
+    { "source": "/", "destination": "https://will-server.taild9f793.ts.net/" },
+    { "source": "/:path+", "destination": "https://will-server.taild9f793.ts.net/:path+" }
   ]
 }
